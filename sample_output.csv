@@ -1,0 +1,3 @@
+name,price,carpet_area,configuration,builder,status,rera_number,amenities,image_urls,video_urls,brochure_links,address,latitude,longitude,nearby_landmarks,possession_date,rating,tags,highlights
+Sample Project 1,Rs 50 Lakh,600-900 sq ft,"2 BHK",Sample Builder,Ready,RERA123,"Gym; Pool","img1.jpg","video1.mp4","brochure1.pdf","Sample Address 1",12.9716,77.5946,"Metro Station","Dec 2024",4.5,"luxury","sample highlight"
+Sample Project 2,Rs 40 Lakh,500-800 sq ft,"3 BHK",Builder2,Under Construction,RERA456,"Clubhouse","img2.jpg","video2.mp4","brochure2.pdf","Sample Address 2",19.0760,72.8777,"Mall","Jan 2025",4.0,"affordable","highlight 2"
